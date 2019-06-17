@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "athena"
+
+[params]
+description = "a-description"
+dateform = "Jan 2, 2006"
+disable_next_prev = true
+github_repo = "your-repo"
+github_username = "your-username"
